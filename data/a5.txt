@@ -1,0 +1,106 @@
+Assignment 5 
+ 
+1. What strategies are crucial for converting academic research into practical societal benefits? 
+ 
+a. Establishing obstacles to innovation  
+b. Partnering with industries to link research with real-world applications  
+c. Keeping research results confidential  
+d. Engaging in rivalry with industries to demonstrate academic dominance 
+ 
+Answer: b. Partnering with industries to link research with real-world applications  
+ 
+ 
+2. Why are investors often reluctant to invest in healthcare product startups? 
+ 
+a. High profit margins in the industry 
+b. Poor success rates of medical devices 
+c. Rapidly growing demand for medical devices 
+d. Shorter research and development cycles 
+ 
+Answer: b. Poor success rates of medical devices 
+ 
+ 
+3. What initial step is crucial for developing a successful design solution? 
+ 
+a. Identifying the problem and understanding functional requirements  
+b. Planning marketing campaigns and advertising strategies  
+c. Conducting employee training and managing resources  
+d. Securing Intellectual Property Rights and patents 
+ 
+Answer: a. Identifying the problem and understanding functional requirements  
+ 
+ 
+4. What role did telemedicine play in improving healthcare during global pandemics? 
+ 
+a. Increased healthcare costs without benefits  
+b. Reduced the strain on physical healthcare facilities  
+c. Created barriers for patient access to care  
+d. Complicated the delivery of medical services 
+ 
+Answer: b. Reduced the strain on physical healthcare facilities  
+ 
+ 
+ 
+ 
+5. What is the main purpose of pilot production in the development process? 
+ 
+a. Generating marketing and advertising content 
+b. Testing and adapting design features based on user feedback 
+c. Filing for patents before large-scale production 
+d. Conducting research in controlled lab environments 
+ 
+Answer: b. Testing and adapting design features based on user feedback 
+ 
+ 
+6. At which point in the innovation process should businesses prioritize securing Intellectual 
+Property Rights (IPR) to protect their inventions? 
+ 
+a. During the initial idea conception  
+b. After developing a working prototype  
+c. Before commercializing the product  
+d. Once the product is widely available in the market 
+ 
+Answer: c. Before commercializing the product  
+ 
+ 
+7. Who is eligible to obtain licenses for Intellectual Property Rights (IPR)? 
+ 
+a. Start-ups only 
+b. Industry professionals only 
+c. Non-Governmental Organizations (NGOs) only 
+d. All of the above 
+ 
+Answer: d. All of the above 
+ 
+ 
+8. What does TRL stand for in the context of innovation and development? 
+ 
+a. Technology Readiness Levels 
+b. Transition and Research Limits 
+c. Technological Resource Level 
+d. Test and Reliability Levels 
+ 
+Answer: a. Technology Readiness Levels 
+ 
+ 
+ 
+ 
+ 
+9. What key aspect should be prioritized when developing a Proof of Concept (POC)? 
+ 
+a. Demonstrating functional feasibility  
+b. Implementing industrial techniques for scalability  
+c. Securing patent protection during initial stages  
+d. Brainstorming creative ideas without practical implementation 
+ 
+Answer: a. Demonstrating functional feasibility  
+ 
+ 
+10. What are the best practices for defining the functional requirements of a project? 
+ 
+a. Conducting thorough stakeholder interviews to gather insights  
+b. Ignoring end-user feedback and relying on assumptions  
+c. Prioritizing features based on developer convenience  
+d. Overlooking the project scope and timeline 
+ 
+Answer: c. Prioritizing features based on developer convenience  

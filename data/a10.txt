@@ -1,0 +1,108 @@
+Assignment 10 
+ 
+1. What creative thinking technique involves individuals imagining themselves as part of 
+the problem or situation they are trying to solve? 
+ 
+a. Fantasy analogy 
+b. Personal analogy 
+c. Symbolic analogy 
+d. CAD analogy 
+ 
+Answer: Personal analogy 
+ 
+ 
+2. Which of the following is NOT a typical prototyping method? 
+ 
+a. Additive methods 
+b. Subtractive methods 
+c. Forming methods 
+d. Lateral thinking 
+ 
+Answer: Lateral thinking 
+ 
+ 
+3. What is the correct sequence during a product development process? 
+ 
+a. Ideation → Concept Generation → Prototyping → Testing → Market Launch 
+b. Market Research → Concept Generation → Testing → Ideation → Prototyping 
+c. Concept Generation → Prototyping → Testing → Market Launch → Ideation 
+d. Ideation → Market Launch → Prototype → Testing → Concept Generation 
+ 
+Answer: Ideation → Concept Generation → Prototyping → Testing → Market Launch 
+ 
+ 
+4. Which type of reasoning involves forming general conclusions from specific 
+observations? 
+ 
+a. Abductive reasoning 
+b. Deductive reasoning 
+c. Inductive reasoning 
+d. Analytical reasoning 
+ 
+Answer: Inductive reasoning 
+ 
+ 
+5. How does frugality in product innovation benefit organizations? 
+ 
+a. By increasing production costs to maximize resources 
+b. By minimizing waste and reducing costs through efficient use of resources 
+c. By prioritizing aesthetics over functionality 
+d. By focusing solely on rapid scaling without cost considerations 
+ 
+Answer: By minimizing waste and reducing costs through efficient use of resources 
+ 
+ 
+6. What is the primary purpose of a Proof of Concept (POC)? 
+ 
+a. To validate the feasibility and viability of a new idea or concept 
+b. To generate the final product for market launch 
+c. To secure funding for large-scale production 
+d. To build prototypes for user feedback 
+ 
+Answer: To validate the feasibility and viability of a new idea or concept 
+ 
+ 
+7. What does prototyping aim to achieve in the design process? 
+ 
+a. Finalizing the design for immediate market release 
+b. Creating models to test and improve design, functionality, and usability 
+c. Building large-scale production units for market distribution 
+d. Avoiding iterative development to save time 
+ 
+Answer: Creating models to test and improve design, functionality, and usability 
+ 
+ 
+8. What is the primary goal of Synectics in the design process? 
+ 
+a. Encouraging exploration and breaking conventional thinking 
+b. Generating a single, perfect solution to a problem 
+c. Reaching consensus among team members quickly 
+d. Applying detailed technical analysis to refine existing concepts 
+ 
+Answer: Encouraging exploration and breaking conventional thinking 
+ 
+ 
+ 
+ 
+ 
+ 
+9. How can entrepreneurs effectively collaborate with one another? 
+ 
+a. By franchising their mutual businesses 
+b. By sharing resources and distributing production responsibilities 
+c. By competing in the same market segments 
+d. All of the above 
+ 
+Answer: By sharing resources and distributing production responsibilities 
+ 
+ 
+10. Why is it important for designers to create prototypes before deploying a product? 
+ 
+a. To identify and resolve design flaws early in the process 
+b. To use prototypes as the final version for market release 
+c. To skip the need for market research and testing 
+d. To focus on aesthetics without user input 
+ 
+Answer: To identify and resolve design flaws early in the process 
+ 
+ 
